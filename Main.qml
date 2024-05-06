@@ -6,4 +6,5 @@ Window {
     visible: true
     title: qsTr("smartHome")
 
+
 }
